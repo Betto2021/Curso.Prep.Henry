@@ -1,0 +1,4 @@
+For es un contador que lllega hasta un máximo de veces que se ejecute un programa
+&& es un operador lógico que necesita que todas las operaciones sean verdaderas para proceder con el programa
+|| es un operador lógico que sólo necesita que una de las operaciones sea verdadera para proceder con el programa
+! es un operador lógico que niega la operación que esté hciendo por ejemplo si da verdadero el negador lo vuelve falso y viceversa.
