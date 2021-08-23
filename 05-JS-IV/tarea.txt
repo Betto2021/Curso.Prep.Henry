@@ -1,0 +1,5 @@
+Objetos es un tipo de variable que puede contener varias propiedades 
+Propiedades son las partes de un objeto como arrays, enteros strings, booleanos u objetos. Los cuales estan relacionaos como nombre y valor.
+Métodos son las funciones que están creadas dentro de un objeto, estos metodos se pueden invocar.
+Bucle for in es un bucle parecido al for de los arrays pero para los objetos.
+Las motaciones son las formas para acceder a las propiedades de un objeto. Notación de puntos es colocar la propiedad del objeto con punto ejemplo usuario.nombre mientras la propiedad de corchetes es colocarla con corchetes ejemplo usuario['nombre']

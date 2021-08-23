@@ -1,0 +1,1 @@
+Arrays, en español es arreglo que es una variable pero que puede contener X cantidad de datos los cuales se puden manipular en la programación y pueden ser de varios tipos como entero, flotante, string, booleano undefinido, etc.
